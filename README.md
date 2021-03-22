@@ -1,9 +1,9 @@
 # StadiumLightingGUItesting
 
 
-Testing selection functions
+Testing selection functions.
 
-Can select by: Row, Col, individual, all
+Can select by: Row, Col, individual, all.
 Trying to figure out how to click and drag select.
 can add diagonal or other features pretty easy.
 
